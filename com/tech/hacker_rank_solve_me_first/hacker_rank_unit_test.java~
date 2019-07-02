@@ -1,0 +1,11 @@
+package com.tech.hacker_rank_solve_me_first;
+
+import org.junit.Test;
+import org.junit.Assert.*;
+  
+class hacker_rank_unit_test {
+    @Test
+    void solveMeFirst_correct() {
+        //assertEquals(4, 2 + 2);
+    }
+}
